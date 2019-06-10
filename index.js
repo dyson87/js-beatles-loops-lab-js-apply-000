@@ -6,5 +6,5 @@ var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 theBeatlesPlay(musicians, instruments);
 function theBeatlesPlay(musicians, instruments) {
   var arr = [];
-  for (let i=0; i )
+  for (var i=0; i )
 }
